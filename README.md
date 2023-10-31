@@ -1,4 +1,4 @@
-# Deutsche Bahn Facts and Figures Dashboard ✈️📊
+# Deutsche Bahn Facts and Figures Dashboard 🚅📊
 
 Welcome to the Deutsche Bahn Facts and Figures repository! 🧑🏻‍✈️This repository contains a dashboard created using PowerBI to visualize Deutsche Bahn Facts and Figures from 2013-2022.
 
